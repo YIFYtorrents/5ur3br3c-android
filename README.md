@@ -1,25 +1,7 @@
-[Popcorn Time for Android](https://git.popcorntime.io/popcorntime/android)  [![Build Status](http://ci.popcorntime.io/buildStatus/icon?job=Popcorn-Android)](http://ci.popcorntime.io/job/Popcorn-Android/)
+Popcorn Time for Android
 ----
 
 Allow any Android user to watch movies easily streaming from torrents, without any particular knowledge.
-
-Visit the project's website at <http://popcorntime.io>.
-
-* [Continuous Integration](http://ci.popcorntime.io/job/Popcorn-Android/)
-* [Issue Tracker](https://git.popcorntime.io/popcorntime/android/issues)
-
-## Community
-
-Keep track of Popcorn Time development and community activity.
-
-* Follow Popcorn Time on [Twitter](https://twitter.com/popcorntimetv), [Facebook](https://www.facebook.com/PopcornTimeTv) and [Google+](https://plus.google.com/+PopcorntimeIo).
-* Read and subscribe to the [The Official Popcorn Time Blog](http://blog.popcorntime.io).
-* Join in discussions on the [Popcorn Time Forum](https://discuss.popcorntime.io)
-* Connect with us on IRC at `#popcorntime` on freenode ([web access](http://webchat.freenode.net/?channels=popcorntime))
-
-## Getting Involved
-
-Want to report a bug, request a feature, contribute or translate Popcorn Time? Check out our in-depth guide to [Contributing to Popcorn Time](CONTRIBUTING.md).
 
 ## Build Instructions ##
 
@@ -109,10 +91,8 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 You should have received a copy of the GNU General Public License along with this program.  If not, see http://www.gnu.org/licenses/.
 
-Note: some dependencies are external libraries, which might be covered by a different license compatible with the GPLv3. They are mentioned in NOTICE.md.
+Note: some dependencies are external libraries, which might be covered by a different license compatible with the GPLv3. Those are mentioned in NOTICE.md.
 
 ***
 
-If you want to contact us: [hello@popcorntime.io](mailto:hello@popcorntime.io)
-
-Copyright (c) 2014 Popcorn Time Foundation - Released under the [GPL V3 license](https://git.popcorntime.io/popcorntime/android/blob/development/LICENSE.md).
+If you want to contact me: 5ur3br3c@jabber.ccc.de over Jabber OTR.
